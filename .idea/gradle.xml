@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Choose a correct invocation" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Constructing a random number generator" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Find the seed" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Generate random numbers" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Impossible to generate" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Pseudorandom sequences" />
+            <option value="$PROJECT_DIR$/Topics/Random class/The result of a method" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Which values can be generated" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

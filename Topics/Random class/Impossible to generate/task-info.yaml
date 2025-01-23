@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Truly random sequences
+  - text: Similar sequences by two generators
+  - text: Integer numbers
+  - text: Number in a specified range (from 0 to n)
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4911#comment
+status: Solved
+record: -1
+local_check: false
